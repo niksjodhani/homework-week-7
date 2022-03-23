@@ -17,7 +17,7 @@ public class Program20 {
 
             }else {
                 System.out.println("number is not  specific==> " + number[i]);
-
+                 break;
             }
 
         }
